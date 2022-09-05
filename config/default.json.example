@@ -1,3 +1,4 @@
 {
-  "mongoURI": "connectionStringGoesHere"
+  "mongoURI": "mongoDbConnectionStringGoesHere",
+  "jwtSecret": "aSecretForJsonWebToken"
 }
